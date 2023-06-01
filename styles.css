@@ -1,0 +1,39 @@
+#navSide a {
+    position: absolute;
+    left: -80px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 0 5px 5px 0;
+  }
+  
+  #navSide a:hover {
+    left: 0;
+  }
+  
+  #nav1 {
+    top: 20px;
+    background-color: green;
+  }
+  
+  #nav2 {
+    top: 80px;
+    background-color: blue;
+  }
+  
+  #nav3 {
+    top: 140px;
+    background-color: red;
+  }
+  
+  #nav4 {
+    top: 200px;
+    background-color: grey;
+  }
+
+  #paraHead {
+    margin-left:80px;
+  }
